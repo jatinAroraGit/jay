@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Jatin Arora
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Full Stack Developer
